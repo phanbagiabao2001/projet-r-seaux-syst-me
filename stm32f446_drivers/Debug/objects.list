@@ -1,0 +1,7 @@
+"./Src/016uart_case.o"
+"./Startup/startup_stm32f446retx.o"
+"./drivers/Src/stm32f446_gpio_driver.o"
+"./drivers/Src/stm32f446_i2c_driver.o"
+"./drivers/Src/stm32f446_rcc_driver.o"
+"./drivers/Src/stm32f446_spi_driver.o"
+"./drivers/Src/stm32f446_usart_driver.o"
